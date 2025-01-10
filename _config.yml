@@ -7,7 +7,7 @@ url: "https://www.sameermene.com" # the base hostname & protocol for your site e
 # User settings
 username: Sameer Mene
 user_description: >-
-  A software engineer based in Pune India, with more than 14 years of experience,
+  A Cloud Architect and "Kubestronaut", based in Pune India, with more than 14 years of experience,
   I specialize in cloud technologies, particularly Kubernetes and AWS, 
   while also being proficient in Java, Go, and Python programming 
   languages. With a solid background in the telecom domain and a keen 
@@ -17,7 +17,7 @@ user_description: >-
   I am dedicated to crafting robust solutions that leverage 
   cutting-edge advancements to drive digital transformation and shape 
   the future of technology.
-user_title: Software Engineer
+user_title: Cloud Architect
 email: samene@gmail.com
 # twitter_username: lorem_ipsum
 instagram_username: smene_in1
